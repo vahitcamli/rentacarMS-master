@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customerService/customerService.iml" filepath="$PROJECT_DIR$/customerService/customerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryServer/discoveryServer.iml" filepath="$PROJECT_DIR$/discoveryServer/discoveryServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayService/gatewayService.iml" filepath="$PROJECT_DIR$/gatewayService/gatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventoryService/inventoryService.iml" filepath="$PROJECT_DIR$/inventoryService/inventoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rentacarMS.iml" filepath="$PROJECT_DIR$/.idea/rentacarMS.iml" />
+    </modules>
+  </component>
+</project>
